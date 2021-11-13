@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Nurullah.
 
 I'm a front end developer. I love to learning new stuffs and build new projects.
+
 You can find some projects I made in this repository.
 
 - 📫 How to reach me: nurullahbozkurtt@gmail.com
